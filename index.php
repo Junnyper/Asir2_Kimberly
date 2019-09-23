@@ -16,3 +16,9 @@ fclose($f);
 	<button> Subscribe </button>
 	
 </form>
+
+
+
+Kim </br>
+<a href="https://192.168.0.36/asir2_James/">Jaimis</a> </br>
+<a href="https://192.168.0.34/asir2_Kevin/">Kev</a>
