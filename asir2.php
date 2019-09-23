@@ -1,0 +1,9 @@
+Kim </br>
+<a href="https://192.168.0.36/asir2_James/asir2.php">Jaimis</a> </br>
+<a href="https://192.168.0.34/asir2_Kevin/asir2.php">Kev</a>
+
+<?php
+$f=fopen('visitas.txt','a');
+fwrite($f,$_SERVER['REMOTE_ADDR']."\r\n");
+fclose($f)
+?>
