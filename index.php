@@ -6,7 +6,7 @@
 #guardar suscriptores
 	$f=fopen('suscriptores.txt','a');
 	fwrite($f,$_GET['email']."\r\n");
-fclose($f)
+fclose($f);
 }
 ?>
 
