@@ -15,7 +15,7 @@ $meses=[
 	'noviembre',
 	'diciembre',
 ];
-echo $meses[$n-1];
+echo $meses[$n-2];
 
 }
 

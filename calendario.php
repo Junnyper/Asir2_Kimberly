@@ -13,7 +13,7 @@ $meses=[
 		'dias'=>'28',
 	],	
 	'3'=>[	
-		'marzo',
+		'mes'=>'marzo',
 		'estacion'=>'primavera',
 		'dias'=>'31',
 	],
@@ -66,5 +66,5 @@ $meses=[
 return $meses[$n]['mes'];
 }
 
-echo meses (2);
+echo meses (4);
 ?>
