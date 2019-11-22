@@ -7,7 +7,7 @@
 		</head>
 	<body bgcolor="#ffcc99">
 			<h1> <font color="dodgerblue">Razas de Gatos</font></h1>
-			 <img src="gato.jpg" alt="Gatito" style="width:300px;height:300px;"/> <br/>
+			 <img src="gato.jpg" alt="Gatito" width="300" height="300"/> <br/>
 			
 				<h2>Primero<u> en primer lugar</u> <del>a la raza egipcia</del></h2>
 				
@@ -38,24 +38,24 @@
 				
 					<p><font size="5"> Provincias de autonomías bañadas por el Cantábrico </font></p>
 					
-			 <table border>
-				<tr>
+			 <table border width="250">
+				<tr align="center">
 					<th>Provincia</th>
 					<th>Costa (Km)</th>
 				</tr>
-				<tr>
+				<tr align="center">
 					<td>Galicia</td>
 					<td>1676</td>
 				</tr>
-				<tr>
+				<tr align="center">
 					<td>Principado de Asturias</td>
 					<td>534</td>
 				</tr>
-				<tr>
+				<tr align="center">
 					<td>País Vasco</td>
 					<td>379</td>
 				</tr>
-				<tr>
+				<tr align="center">
 					<td>Cantábria</td>
 					<td>284</td>
 				</tr>
