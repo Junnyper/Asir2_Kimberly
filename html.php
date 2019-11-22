@@ -2,7 +2,7 @@
  
 	<html>
 		<head>
-			<meta charset="UTF-8">
+			<meta charset="UTF-8"/>
 			<title>Título de la web</title>
 		</head>
 	<body bgcolor="#ffcc99">
@@ -32,9 +32,9 @@
 					<h3>Husky siberiano</h3> <br/>
 				 
 				<form> <center>
-					Nombre: <input type="text" name="fname"></br>
-					<input type="submit" value="Submit">
-				</form> </br>
+					Nombre: <input type="text" name="fname"/><br/>
+					<input type="submit" value="Submit"/>
+				</form> <br/>
 				
 					<p><font size="5"> Provincias de autonomías bañadas por el Cantábrico </font></p>
 					
