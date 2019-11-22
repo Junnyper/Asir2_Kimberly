@@ -1,27 +1,44 @@
  <!DOCTYPE html>
  
-	<html style="background-color:#ffcc99;">
+	<html>
 		<head>
 			<meta charset="UTF-8">
 			<title>Título de la web</title>
 		</head>
-	<body><center>
-			<h1> <font color="dodgerblue">Título utilizando h1</font></h1>
+	<body bgcolor="#ffcc99">
+			<h1> <font color="dodgerblue">Razas de Gatos</font></h1>
+			 <img src="gato.jpg" alt="Gatito" style="width:300px;height:300px;"/> <br/>
 			
-				<p><font size="28px">En <u>este párrafo</u> <del>la letra cambia</del> pasan cosas.</font></p>
-			
-			<h2> <font color="MediumSeaGreen">Párrafo utilizando h2</font></h2>
-			
-				<p>Este <b>párrafo</b> tiene algo <mark>raro.</mark></p>
+				<h2>Primero<u> en primer lugar</u> <del>a la raza egipcia</del></h2>
 				
-			<h3>En el último utilizamos h3.</h3>
+					<h3> Sphynx </h3>
+						
+						<p> No tienen pelo </p>
+					
+				<h2>En segundo lugar el Ruso</h2>
+					
+					<h3> Azul Ruso </h3>
+					
+						<p> Hay tres tipos </p>
+						
+						<h4> Tipo escandinavo </h4>
+						<h4> Tipo americano </h4>
+						<h4> Tipo inglés </h4>
 			
-				 <img src="gato.jpg" alt="Gatito" style="width:300px;height:300px;"> 
-				<form action="/action_page.php" method="get">
-						Nombre: <input type="text" name="fname"><br>
+			<h1><font color="MediumSeaGreen">Razas de perritos</font></h1>
+			
+				<h2>El <b>primero</b> viene de <mark>Siberia</mark></h2>
+				
+					<h3>Husky siberiano</h3> <br/>
+				 
+				<form> <center>
+					Nombre: <input type="text" name="fname"></br>
 					<input type="submit" value="Submit">
-				</form> 
-			 <table style="width:50%" border="1px">
+				</form> </br>
+				
+					<p><font size="5"> Provincias de autonomías bañadas por el Cantábrico </font></p>
+					
+			 <table border>
 				<tr>
 					<th>Provincia</th>
 					<th>Costa (Km)</th>
