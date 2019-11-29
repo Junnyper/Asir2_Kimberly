@@ -3,9 +3,9 @@
 	<html>
 		<head>
 			<meta charset="UTF-8"/>
-			<title>Título de la web</title>
+			<title>Razas de animales</title>
 		</head>
-	<body bgcolor="#ffcc99">
+	<body bgcolor="#ffcc99" marginwidth="50">
 			<h1> <font color="dodgerblue">Razas de Gatos</font></h1>
 			 <img src="gato.jpg" alt="Gatito" width="300" height="300"/> <br/>
 			
