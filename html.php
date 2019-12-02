@@ -30,11 +30,12 @@
 				<h2>El <b>primero</b> viene de <mark>Siberia</mark></h2>
 				
 					<h3>Husky siberiano</h3> <br/>
-				 
-				<form> <center>
+				<center>
+				<form>
 					Nombre: <input type="text" name="fname"/><br/>
 					<input type="submit" value="Submit"/>
-				</form> <br/>
+				</form> 
+				<br/>
 				
 					<p><font size="5"> Provincias de autonomías bañadas por el Cantábrico </font></p>
 					
@@ -59,7 +60,7 @@
 					<td>Cantábria</td>
 					<td>284</td>
 				</tr>
-			</table> 
-	</center>		
+			</table> 	
+	</center>
 	</body>
 	</html> 

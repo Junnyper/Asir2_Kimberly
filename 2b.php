@@ -20,5 +20,5 @@ function calcula(){
 	echo $a/$b;
 	echo '</div>'; 
 }
-	calcula();
+calcula();
 ?>	
