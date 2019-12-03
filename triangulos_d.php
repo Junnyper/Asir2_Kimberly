@@ -1,4 +1,4 @@
-﻿<form>
+<form>
 	Lado 1    
 	<input name="lado1"/>
 	</br>
@@ -28,8 +28,8 @@
 				$l2=$info[L][1];
 				$l3=$info[L][2];
 
-				$x=(($l1^2-$l2^2+$l3^2)/(2*$l3));
-				$h=(sqrt($l1^2-$x^2));
+				$x=((pow($l1,2)-pow($l2,2)+pow($l3,2))/(2*$l3));
+				$h=(sqrt(pow($l1,2)-pow($x,2)));
 				$a1=(atan($h/($l3-$x)));
 				$a2=(atan($h/$x));
 				$a3=(180-($a1+$a2));
