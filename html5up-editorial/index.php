@@ -144,7 +144,7 @@ echo $sql;
                                         <input type="email" name="Email" placeholder="Email"/>
                                     </div></br>
                                     <div class="">
-                                    <textarea name="message" placeholder="Message" rows="6"></textarea>
+                                    <textarea name="Message" placeholder="Message" rows="6"></textarea>
                                     </div></br>
                                     <div class="post">
                                     <ul class="actions special">
